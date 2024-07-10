@@ -642,7 +642,15 @@ nav {
         width: 300px;
         height: auto;
     }
-
+    .service_container .service .items .content h1{
+        font-size: var(--font24--);
+    }
+    
+    .service_container .service .items .content strong{
+    
+        font-size: 23px;
+        color: #00b318;
+    }
     
 }
 

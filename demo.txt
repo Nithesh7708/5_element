@@ -1,0 +1,20 @@
+ <li class="sub_head">MISSION</li>
+                <li>"Empowering families with the ancient wisdom of Garbh 
+                    Sanskar, our mission is to nurture a holistic and harmonious 
+                    prenatal journey, fostering a strong foundation for the 
+                    physical, mental, and emotional well-being of both the 
+                    mother and the unborn child. Through personalized 
+                    guidance, nurturing practices, and a supportive community, 
+                    we aspire to create a transformative space where each 
+                    pregnancy is imbued with positivity, love, and the promise of 
+                    a brighter future."</li>
+                <li class="sub_head">VISION</li>
+                <li>"To be the guiding light in the realm of Garbh Sanskar, our 
+                    vision is to cultivate a world where every expectant mother 
+                    and her child experience a profound and enlightened 
+                    prenatal journey. We envision a global community where the 
+                    ancient wisdom of Garbh Sanskar seamlessly integrates with 
+                    modern knowledge, nurturing the potential of each life 
+                    before birth, and laying the foundation for a healthier, 
+                    happier, and more conscious society”
+                    </li>
